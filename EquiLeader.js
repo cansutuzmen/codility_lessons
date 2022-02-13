@@ -3,7 +3,6 @@
 https://app.codility.com/programmers/lessons/8-leader/equi_leader/
 */
 
-
 function solution(A) {
     if(A.length === 1){
         return 0;
@@ -44,3 +43,8 @@ function solution(A) {
 
     return equiLeader;
 }
+
+
+
+
+
