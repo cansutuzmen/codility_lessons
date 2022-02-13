@@ -1,4 +1,4 @@
-//Codility - EquiLeader Problem
+//Codility - EquiLeader Problem 100% Success 
 /*
 https://app.codility.com/programmers/lessons/8-leader/equi_leader/
 */
